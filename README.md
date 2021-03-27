@@ -1,0 +1,3 @@
+# ussoils-geostatistics
+
+course project
